@@ -4,18 +4,6 @@
 #include <ctime>
 using namespace std;
 
-/* Name: Janelle Otero
-Date: 10/17/19
-Section: 10
-Assignment: Homework #4
-Due Date: 10/22/19
-About this project: With this project I will be able to play the Monty Hall game. I pick a random door number out of three then Monty Hall
-will pick a door that isn't the winning or the one I chose. Then he asks me if I want to stay with my first choice or change to the other one.
-Then he reveals whether I won or not. I can monitor my game stats and restart them.
-
-
-All work below was performed by Janelle Otero */
-
 //PrintDoors function declaration (provided).
 void printDoors();
 void Statistics(double, double, double);
